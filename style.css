@@ -6,7 +6,8 @@
 }     
 
 body{
-    background-color: black;
+    background: #080808;
+    color: #fff;
 }
 #header{
     width: 100%;
