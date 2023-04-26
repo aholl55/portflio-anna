@@ -84,8 +84,9 @@
             tablink.classList.remove("active-link");
         }
         for(tabcontent of tabcontents){
-            tabcontent.classList.remove("active-link")
+            tabcontent.classList.remove("active-link");
         }
+        event.currentTarget.classlist.add("active-link");
     }
       
 </script>
