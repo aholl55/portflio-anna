@@ -303,3 +303,17 @@ form input, form textarea{
     font-size: 18px;
     border-radius: 6px;
 }
+form .btn2{
+    padding: 14px 60px;
+    font-size: 18px;
+    margin-top: 20px;
+    cursor: pointer;
+}
+
+/*--------------small screens (responsive)--------------------*/
+
+@media only screen and (max-width: 600px){
+    #header{
+        background-image: url(images/phone-background.png)
+    }
+}
