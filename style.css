@@ -323,7 +323,11 @@ form .btn2{
 .header-nature{
     background: #081c15;
 }
-
+.photo-nature{
+    max-width:100%;
+    height:auto;
+    padding: 20px;
+}
 
 
 
